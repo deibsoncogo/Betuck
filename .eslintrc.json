@@ -1,5 +1,5 @@
 {
-  "extends": [
-    "plugin:adonis/typescriptApp"
-  ]
+  "extends": ["plugin:adonis/typescriptApp"],
+  "plugins": ["eslint-plugin-import-helpers"],
+  "rules": {}
 }
